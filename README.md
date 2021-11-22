@@ -13,6 +13,3 @@
 
 ## URL
 https://powerful-ocean-12507.herokuapp.com/
-
-## heroku
-https://dashboard.heroku.com/apps/powerful-ocean-12507
